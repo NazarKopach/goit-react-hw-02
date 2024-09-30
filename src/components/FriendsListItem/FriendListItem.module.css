@@ -1,0 +1,12 @@
+.friend_list_name {
+  font-weight: 500;
+  font-size: 24px;
+}
+
+.friend_is_online {
+  color: green;
+}
+
+.friend_is_offline {
+  color: red;
+}
